@@ -28,6 +28,7 @@ The model leverages the following real-time and historical features for every pr
 ### Model Training and Selection
 The aipriceoptima.py script compares multiple regression models, confirming the best choice for production:
 
+<img width="537" height="332" alt="image" src="https://github.com/user-attachments/assets/e40bfd38-0eca-4809-98c1-83c438423ca7" />
 
 The Gradient Boosting Regressor was selected for production due to its superior performance, indicated by the lowest Root Mean Square Error (RMSE).
 
